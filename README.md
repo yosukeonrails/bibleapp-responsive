@@ -1,5 +1,7 @@
 # YoYo Bible App #
-
+ 
+ Live Demo: https://yosukeonrails.github.io.bibbleapp
+ 
  # Introduction #
 
   Yoyo Bible App, is an applicaion that let's you browse the Bible in a very simple , user friendly interface. The Application is great for mobile devices 

@@ -18,7 +18,7 @@ and it works also on desktops and tablets.
 
  ## Front-End ##
 
- *HTML5
- *CSS3
- *Javascript
- *Jquery
+ * HTML5
+ * CSS3
+ * Javascript
+ * Jquery
